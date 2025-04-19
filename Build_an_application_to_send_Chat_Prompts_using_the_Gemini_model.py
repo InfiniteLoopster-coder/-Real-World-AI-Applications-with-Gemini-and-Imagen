@@ -11,8 +11,8 @@ gcp_logging_client.setup_logging()
 
 client = genai.Client(
     vertexai=True,
-    project='"project-id"',
-    location='"REGION"',
+    project='qwiklabs-gcp-04-5a3082864181',
+    location='us-central1',
     http_options=HttpOptions(api_version="v1")
 )
 chat = client.chats.create(
