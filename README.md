@@ -6,9 +6,6 @@ Scenario: You're a developer at an AI-powered bouquet design company. Your clien
 
 Task 1: Develop a Python function named generate_bouquet_image(prompt). This function should invoke the imagen-3.0-generate-002 model using the supplied prompt, generate the image, and store it locally. For this challenge, use the prompt: Create an image containing a bouquet of 2 sunflowers and 3 roses.
 
-Click Check my progress to verify the objective.
-
-Generate an image by sending a text prompt
 
 
 
